@@ -1,6 +1,7 @@
-package hello.servlet.basic;
+package hello.servlet.basic.request;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import hello.servlet.basic.HelloData;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletInputStream;
 import jakarta.servlet.annotation.WebServlet;
